@@ -1,3 +1,5 @@
+<p align="center">
+
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1scjFkeTdxZmk2YjVkazN1eWZlenNpY2FnaXJhZzQ2ZXN2ajY4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/08WvBP5CPsiYTMghFF/giphy.gif)
 
 - 👋 Hi, I’m @NOMYAN
@@ -35,4 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 [![](https://visitcount.itsvg.in/api?id=NOMYAN&icon=0&color=10)](https://visitcount.itsvg.in)
 
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
