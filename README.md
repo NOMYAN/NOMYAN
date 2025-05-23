@@ -25,11 +25,12 @@ You can click the Preview link to take a look at your changes.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NOMYAN&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
 
+
+![]https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem82bzd4b2Q4ZHM5bG9kaGJybXJ0N2Y1N3pkemJ4OHR4cGliaTIxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nj2jpfmNDQwLKWzpmF/giphy.gif)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 
-![]https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem82bzd4b2Q4ZHM5bG9kaGJybXJ0N2Y1N3pkemJ4OHR4cGliaTIxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nj2jpfmNDQwLKWzpmF/giphy.gif)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=NOMYAN&icon=0&color=10)](https://visitcount.itsvg.in)
