@@ -1,3 +1,6 @@
+
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hlMGR5MHU1bGtia3Q5Z3U4Zzl1Y3AwY285MzdlczRqeHByNWI3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tU2mV8ALzJEdXAAwRo/giphy.gif)
+
 - 👋 Hi, I’m @NOMYAN
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
