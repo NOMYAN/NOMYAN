@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1scjFkeTdxZmk2YjVkazN1eWZlenNpY2FnaXJhZzQ2ZXN2ajY4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/08WvBP5CPsiYTMghFF/giphy.gif)
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem82bzd4b2Q4ZHM5bG9kaGJybXJ0N2Y1N3pkemJ4OHR4cGliaTIxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nj2jpfmNDQwLKWzpmF/giphy.gif)
 
 
 ---
