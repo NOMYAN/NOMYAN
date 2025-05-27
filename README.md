@@ -3,11 +3,11 @@
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1scjFkeTdxZmk2YjVkazN1eWZlenNpY2FnaXJhZzQ2ZXN2ajY4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/08WvBP5CPsiYTMghFF/giphy.gif)
 
 - 👋 Hi, I’m @NOMYAN
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on all kinds of projects. 
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in becoming better. Not just in technical skills. But skills I can bring about to other parts of my life.
+- 🌱 I’m currently learning Fullstack development. Slowly honing my skills in terms of programming, database and design.
+- 💞️ I’m looking to collaborate on all kinds of projects. Tech- Frontend/ Backend. Design. Marketing. Communication. Development.. You name it all.
+- 📫 How to reach me: 
+- ⚡ Fun fact: I have ADHD
 
 <!---
 NOMYAN/NOMYAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
