@@ -5,6 +5,8 @@
 - 👋 Hi, I’m @NOMYAN
 - 👀 I’m interested in becoming better. Not just in technical skills. But skills I can bring about to other parts of my life.
 - 🌱 I’m currently learning Fullstack development. Slowly honing my skills in terms of programming, database and design.
+      - HTML, CSS, JAVASCRIPT
+      - Java Spring Boot, JUNIT and Mockito as the frameworks used for API development and testing
 - 💞️ I’m looking to collaborate on all kinds of projects. Tech- Frontend/ Backend. Design. Marketing. Communication. Development.. You name it all.
 - 📫 How to reach me: 
 - ⚡ Fun fact: I have ADHD
