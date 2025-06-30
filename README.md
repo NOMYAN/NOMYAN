@@ -9,7 +9,7 @@
       - Java Spring Boot, JUNIT and Mockito as the frameworks used for API development and testing
 - 💞️ I’m looking to collaborate on all kinds of projects. Tech- Frontend/ Backend. Design. Marketing. Communication. Development.. You name it all.
 - 📫 How to reach me: 
-- ⚡ Fun fact: I have ADHD
+- ⚡ It's ok not to be ok...You may fall sometime, but it is ok.. Just get up, and trust that you will be fine (:
 
 <!---
 NOMYAN/NOMYAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
